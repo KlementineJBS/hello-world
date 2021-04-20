@@ -1,8 +1,11 @@
-## What is OSTB Series 4?
+# What is OSTB Series 4?
 
 Background 
 ----------
 
-Here's the background. 
+Series 4 is an attempt to find new drugs to treat [latent TB](https://github.com/OpenSourceTB/OSTB_Series_3/wiki/Latent-TB). 
 
-# Current compounds 
+Current compounds 
+----------------
+
+
