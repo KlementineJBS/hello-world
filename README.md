@@ -1,6 +1,5 @@
 # hello-world
-first timer
 
-here's everything else you need to know etc
+**how to make something bold**
 
-here we go again
+let's add a [hyperlink](www.google.com) 
