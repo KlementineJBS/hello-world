@@ -1,15 +1,8 @@
-# hello-world
+## What is OSTB Series 4?
 
-**how to make something bold**
+Background 
+----------
 
-let's add a [hyperlink](www.google.com) 
+Here's the background. 
 
-Or a header?
-===========
-
-another header?
---------------
-
-### New header 
-
-> what's up?
+# Current compounds 
